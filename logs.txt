@@ -1,0 +1,21 @@
+Starting
+W3:    Destination: BT Murrayfield Stadium                  Passengers: 1     Remaining: 1      Taxi: ZK721HO   
+W2:    Destination: Main Station                            Passengers: 2     Remaining: 2      Taxi: XU698QZ   
+W1:    Destination: Portobello Beach                        Passengers: 2     Remaining: 2      Taxi: GT328PZ   
+W0:    Destination: Duddingston Golf Club                   Passengers: 7     Remaining: 7      Taxi: CL398LF   
+W0:    Destination: Duddingston Golf Club                   Passengers: 7     Remaining: 1      Taxi: RZ854SF   
+W3:    Destination: Princess Street                         Passengers: 1     Remaining: 1      Taxi: YZ649MW   
+W2:    Destination: Main Station                            Passengers: 8     Remaining: 8      Taxi: WQ659RM   
+W1:    Destination: Haymarket                               Passengers: 2     Remaining: 2      Taxi: RZ297CM   
+W2:    Destination: Main Station                            Passengers: 8     Remaining: 3      Taxi: UW164XO   
+W0:    Destination: Scottish National Gallery               Passengers: 7     Remaining: 7      Taxi: KY291SY   
+W3:    Destination: Heriot Watt                             Passengers: 3     Remaining: 3      Taxi: GW942KL   
+W1:    Destination: Edinburgh Playhouse                     Passengers: 5     Remaining: 5      Taxi: VI428RC   
+No more taxis
+Closing window 3
+W2:    Destination: Ocean Terminal                          Passengers: 2     Remaining: 2      Taxi: HD520OH   
+W0:    Destination: Fettes College                          Passengers: 8     Remaining: 8      Taxi: MN484SV   
+W1:    Destination: Edinburgh Playhouse                     Passengers: 5     Remaining: 1      Taxi: NU325AQ   
+Closing window 0
+Closing window 2
+Closing window 1
